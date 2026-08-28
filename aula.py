@@ -10,3 +10,5 @@ val = int(input("Digite seu numero de colunas:"))
 for i in range(val):
   print("*", end="")
 print('')
+print("")
+print("quadrado")
